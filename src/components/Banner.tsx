@@ -30,7 +30,7 @@ const Banner = () => {
       </div>
     );
   };
-  var settings = {
+  const settings = {
     dots: false,
     infinite: true,
     autoplay: true,
